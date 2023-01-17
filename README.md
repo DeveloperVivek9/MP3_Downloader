@@ -18,3 +18,7 @@ https://www.youtube.com/playlist?list=PLRBp0Fe2GpgnIh0AiYKh7o7HnYAej-5ph
 
 ### DISCLAIMER   
 Please don't download copyrighted material. This code is not for that purpose but for educational purposes.   
+
+
+### Shazam
+Gets the name of the artist and the song from a given mp3 file or from a directory full of mp3 files. 
