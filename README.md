@@ -3,10 +3,10 @@
 1. MP3 Downloader
 2. Shazam 
 
-### MP3_Downloader  
+### 1. MP3_Downloader  
 Downloads audio from YouTube links.   
 
-#### Example Usage   
+##### Example Usage   
 
 If the link is that of a video url, gets the audio of that video.   
 https://www.youtube.com/watch?v=eEBnckCJJ_U&ab_channel=NCSArcade      
@@ -21,9 +21,9 @@ Else if the link is that of a playlist url, same as before, gets audio of each v
 https://www.youtube.com/playlist?list=PLRBp0Fe2GpgnIh0AiYKh7o7HnYAej-5ph  
 ![Usage 3](https://github.com/DeveloperVivek9/MP3_Downloader/blob/main/Documentation/Playlist.png?raw=true)  
 
-### DISCLAIMER   
+##### DISCLAIMER   
 Please don't download copyrighted material. This code is not for that purpose but for educational purposes.   
 
 
-### Shazam
+### 2. Shazam
 Gets the name of the artist and the song from a given mp3 file or from a directory full of mp3 files. 
