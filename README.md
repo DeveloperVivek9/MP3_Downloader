@@ -1,4 +1,9 @@
-## MP3_Downloader  
+## Various Functionalities related to music
+
+1. MP3 Downloader
+2. Shazam 
+
+### MP3_Downloader  
 Downloads audio from YouTube links.   
 
 #### Example Usage   
